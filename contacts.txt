@@ -1,0 +1,1 @@
+[{"name":"John Doe","phones":["0123456789"],"id":1},{"name":"Jane Doe","phones":["9876543210","9632587410"],"id":2},{"name":"John Smith","phones":[],"id":3},{"name":"Stepan","phones":[],"id":6}]
